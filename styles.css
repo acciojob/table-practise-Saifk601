@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+table {
+	border: 1px solid black;
+	background-color: yellow;
+}
+th {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid silver;
+	border-right: 1px solid silver;
+}
+td {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid silver;
+	border-right: 1px solid silver;
+}
